@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadhraoui-seifeddine&show_icons=true&locale=en" alt="khadhraoui-seifeddine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadhraoui-seifeddine&" alt="khadhraoui-seifeddine" /></p>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@404e5683-146a-4caf-92f0-91376e274236/4151be28-63c7-4972-aafc-d9745edb6d67.png" /></a>
