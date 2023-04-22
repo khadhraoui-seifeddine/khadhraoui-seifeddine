@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **programming languages for machine learning and web development**
 
-- 📫 How to reach me **khadhraouiseif@gmail.com**
+- 📫 How to reach me **khadhraouiseif@gmail.com / seifeddine.khadhraoui@bizerte.r-iset.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
