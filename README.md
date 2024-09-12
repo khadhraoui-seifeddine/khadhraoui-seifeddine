@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seif Eddine Khadhraoui</h1>
-<h3 align="center">Master's student in Advanced Robotics And Artificial Intelligence</h3>
+<h3 align="center">Master's Graduate in Advanced Robotics And Artificial Intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE0ODU1ODFiNGI4ZDY2M2Q0M2I1ZDdhOTAwYjY0MmFjZDk3MjhhYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadhraoui-seifeddine&label=Profile%20views&color=0e75b6&style=flat" alt="khadhraoui-seifeddine" /> </p>
